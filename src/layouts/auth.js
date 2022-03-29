@@ -1,8 +1,8 @@
-import React from 'react';
-import { renderRoutes } from 'react-router-config';
+// import React from 'react';
+// import { renderRoutes } from 'react-router-config';
 
-export const AuthLayout = props => {
-  return (
-    <div>{renderRoutes(props.route.routes)}</div>
-  )
-}
+// export const AuthLayout = props => {
+//   return (
+//     <div>{renderRoutes(props.route.routes)}</div>
+//   )
+// }
